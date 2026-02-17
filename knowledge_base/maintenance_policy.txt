@@ -1,0 +1,101 @@
+DOCUMENT: MAD Apartments Maintenance & Repairs Policy
+VERSION: 3.0  |  EFFECTIVE: January 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — LANDLORD RESPONSIBILITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Under the Landlord and Tenant Act 1985 and the Homes (Fitness for Human Habitation) Act 2018, MAD Apartments is legally responsible for maintaining:
+
+- The structure and exterior of the building (roof, walls, foundations, windows, external doors)
+- Installations for the supply of water, gas, and electricity
+- Installations for space heating and water heating
+- Drainage, gutters, and external pipes
+- Common areas: hallways, stairwells, lifts, car parks, and gardens
+- Any appliances provided by the landlord as part of the tenancy (cooker, fridge, washing machine if included in the tenancy agreement)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — TENANT RESPONSIBILITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tenants are responsible for:
+
+- Minor repairs caused by their own actions or negligence
+- Replacing lightbulbs and fuses in individual flats
+- Keeping the property clean and ventilated to prevent condensation and mould caused by lifestyle
+- Unblocking sinks, baths, and toilets that have been blocked by tenant usage
+- Maintaining and replacing batteries in smoke alarms inside the flat
+- Not making structural alterations without written permission
+- Reporting faults promptly — failure to report a known fault that then worsens may make the tenant liable for additional repair costs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — REPAIR PRIORITY LEVELS AND RESPONSE TIMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Priority 1 — EMERGENCY (see Emergency Procedures Policy)
+Response time: 1–4 hours depending on type.
+Examples: gas leak, fire, flooding, no heating in winter, power outage, security breach.
+
+Priority 2 — URGENT
+Response time: Within 24 hours.
+Definition: A fault that significantly affects the tenant's comfort, safety, or ability to use the property, but is not immediately life-threatening.
+Examples:
+- Partial loss of heating outside winter months
+- Plumbing fault causing restricted (but not zero) water supply
+- Faulty front door lock that still functions partially
+- Lift breakdown (affects accessibility)
+- Entry system failure
+- Electrical fault to part of the property
+
+Priority 3 — ROUTINE
+Response time: Within 2 working days (48 hours).
+Definition: A fault that is inconvenient but does not affect safety or the core habitability of the property.
+Examples:
+- Leaking tap or dripping pipe (not flooding)
+- Broken or damaged internal door
+- Faulty kitchen or bathroom extractor fan
+- Broken window catch (not outer security)
+- Pest report (initial inspection)
+- Appliance fault
+
+Priority 4 — PLANNED
+Response time: Within 5 working days.
+Definition: General wear and repair that does not cause inconvenience but should be addressed.
+Examples:
+- Damp and mould investigation (initial survey)
+- Decoration or minor cosmetic damage not caused by the tenant
+- Communal garden or rubbish area issues
+- General communal area maintenance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — HOW REPAIRS ARE CARRIED OUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Complaint logged via the voice hotline, online portal, or in writing.
+2. Maintenance team acknowledges within the SLA window and contacts the tenant to arrange access.
+3. All repair work is carried out by qualified contractors vetted by MAD Apartments. Contractors carry photo ID and must show it on request.
+4. Tenant must provide reasonable access. MAD Apartments will give at least 24 hours' notice for non-emergency visits, except in emergencies where immediate access is required.
+5. After completion, the tenant is asked to confirm the issue is resolved before the ticket is closed.
+6. If the work is not satisfactory, the tenant can raise a follow-up complaint and the ticket will be reopened at no additional delay.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — COSTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- All repairs that are the landlord's responsibility are carried out at no cost to the tenant.
+- If a repair is found to be the result of tenant negligence or misuse, the tenant will be notified in writing before any costs are charged, and will have the right to dispute.
+- Emergency repairs required outside normal hours carry no surcharge for the tenant.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — DAMP AND MOULD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Following the Awaab's Law provisions under the Renters' Reform Bill, MAD Apartments treats damp and mould as a serious hazard.
+
+Investigation timeline:
+- Initial survey arranged within 3 working days of complaint
+- Written report issued to tenant within 7 days of survey
+- Remediation works begin within 14 days of report
+- All works completed within a timeframe agreed in writing with the tenant
+
+Tenants are not charged for damp or mould treatment unless it is proven to have been caused entirely by the tenant's lifestyle (e.g. never opening windows, drying laundry on radiators without ventilation). Even then, MAD Apartments will assist and advise before attributing costs.

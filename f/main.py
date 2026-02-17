@@ -13,6 +13,7 @@ import websockets
 from dotenv import load_dotenv
 
 from functions import execute_function, FUNCTION_DEFINITIONS
+from rag_engine import build_index
 
 load_dotenv()
 
@@ -220,6 +221,12 @@ def _stream_sid(ws) -> str:
 
 async def main():
     logger.info(f"Starting MAD Apartments Complaint Hotline on port {WEBSOCKET_PORT}")
+
+    # Build / refresh the RAG knowledge base index at startup
+    logger.info("Building RAG knowledge base index…")
+    total_chunks = await build_index()
+    logger.info(f"Knowledge base ready: {total_chunks} chunks indexed.")
+
     async with websockets.serve(handle_twilio_connection, "0.0.0.0", WEBSOCKET_PORT):
         logger.info("Server ready. Waiting for calls…")
         await asyncio.Future()
